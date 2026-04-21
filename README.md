@@ -1,0 +1,2 @@
+# podinf
+Podatak i informacija
